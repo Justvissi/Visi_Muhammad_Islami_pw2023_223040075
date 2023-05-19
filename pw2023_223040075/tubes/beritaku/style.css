@@ -1,0 +1,139 @@
+*,
+html,
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.news {
+  background-image: url(img/1.jpg);
+  height: 80vh;
+  background-size: cover;
+}
+.coba {
+  background-color: #212A3E;
+  height: 110vh;
+}
+.article {
+  background-color: #ADE4DB;
+  padding: 30px;
+  border: solid 2px;
+  transform: translateY(20px);
+}
+.tinggikan {
+  position: relative;
+  background-color: #212A3E;
+  height: 350vh;
+}
+.berita {
+  position: relative;
+  heigh: 80vh;
+  background-color: yellow;
+  transform: translateY(40px);
+}
+.main {
+  background-color: #19A7CE;
+  padding: 20px;
+}
+.kartu {
+  background-color: salmon;
+  width: 90%;
+  height: 35vh;
+  padding: 10px;
+  margin: 10px;
+}
+.kartu img {
+  height: 20vh;
+}
+.kartu h4 {
+  font-size: 20px;
+  width: 60%;
+  margin-left: 100px;
+  transform: translateY(-120px);
+}
+.kartu p {
+  font-size: 10px;
+  width: 60%;
+  margin-left: 100px;
+  transform: translateY(-120px);
+}
+.wrapper {
+  width: 30%;
+  padding: 10px;
+}
+
+.popular {
+  padding: 20px;
+  background-color: salmon;
+  width: 80%;
+  height: 20vh;
+  float: right;
+  margin: 10px;
+}
+.popular img {
+  width: 50px !important;
+}
+.popular h4 {
+  font-size: 16px;
+  width: 60%;
+  transform: translateY(-72px);
+  margin-left: 60px;
+}
+
+.inti {
+  background-color: #00ced1;
+  height: 15vh;
+}
+.kaki {
+  position: relative;
+  padding: 20px;
+}
+.masuk {
+  background-color: #FEFF86;
+  padding: 20px;
+  height: 80vh;
+}
+.login {
+  background-color: #B0DAFF;
+  padding: 20px;
+  width: 30%;
+  margin: auto;
+  transform: translateY(50px);
+}
+.regist {
+  background-color: #FEFF86;
+  padding: 20px;
+  height: 100vh;
+}
+.daftar {
+  background-color: #B0DAFF;
+  padding: 20px;
+  width: 30%;
+  margin: auto;
+  transform: translateY(50px);
+}
+
+button a {
+  text-decoration: none;
+}
+form input {
+text-align: center;
+}
+p a {
+  text-decoration: none;
+}
+/* artikel */
+.artikel1 img {
+width: 100%;
+transform: translateY(100px);
+}
+.more {
+  transform: translateY(45px);
+  background-color: white;
+  border: solid 3px;
+}
+.ril {
+  background-color: #9BA4B5;
+  height: 100vh;
+}
+/* akhir artikel */
